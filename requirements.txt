@@ -1,0 +1,5 @@
+uvicorn
+motor
+fastapi
+Jinja2
+websockets
